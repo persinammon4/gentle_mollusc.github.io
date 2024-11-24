@@ -27,7 +27,3 @@ and image pairs that are displayed in a randomized fashion.
 - Elements are draggable as a hidden surprise throughout, thanks to one of the jQuery draggable libraries.
 
 
-## Link to Visit 
-
-[persinammon4.github.io](persinammon4.github.io)
-
