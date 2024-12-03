@@ -2,7 +2,6 @@ words = [
 "I aspire to the joy of the very first \"Hello World!\". I think I feel a glimmer of it every time I ping a server?",
 "Can the writer also be the muse?",
 "Time to zoom",
-"[Absence, Absinthe, Abstinence] makes the heart grow fonder.",
 "6/12/2019: Next Level Charli - Charli XCX",
 "Birthday wishlist: mbira, a happy sprawling chili plant. I actually received and made/bought/received everything I wanted in late 2019/early 2020. Right before COVID.",
 "Apparently 'This Song is Not For Anyone But You' became 'Twilight' in English....<a href='https://www.youtube.com/watch?v=gd38-X3HpbM' target='_blank'>https://www.youtube.com/watch?v=gd38-X3HpbM</a>",
